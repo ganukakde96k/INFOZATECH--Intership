@@ -1,7 +1,7 @@
 # INFOZATECH Internship - Python Development
 ##Task 1: To-Do List Application
 
-This project is completed as a part of my Python Development Internship at **INFOZATECH**.
+This project is completed as a part of my Python Development Internship at **INFOZATECH**
 
 **Intern:** ganesh kakde
 **Company:** INFOZATECH
